@@ -69,3 +69,5 @@ TODO C# web UI
 TODO GIS web UI
 TODO DJango -> React, angular, vue
 
+TODO https://www.geeksforgeeks.org/sorting-algorithms/#problems
+
