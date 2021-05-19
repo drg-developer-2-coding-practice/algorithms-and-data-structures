@@ -71,3 +71,15 @@ TODO DJango -> React, angular, vue
 
 TODO https://www.geeksforgeeks.org/sorting-algorithms/#problems
 
+TODO Advanced pandas dataframe usage including sql
+
+TODO Android sample
+TODO Arduino sample
+TODO Raspberry Pi sample
+TODO NVidia parallel computing sample
+TODO Unity sample!!
+
+TODO ncurses sample
+TODO SWIG
+TODO That advanced java-c++ interfacing language system.
+
